@@ -1,2 +1,3 @@
 # ML-Scratch
-ML algorithms implemented from scratch 
+
+Goal: Implement core machine learning algorithms from scratch to understand the underlying math and optimization
